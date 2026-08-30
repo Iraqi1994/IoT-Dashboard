@@ -2,6 +2,9 @@
 
 A web dashboard for monitoring a home solar + battery energy system in real time. It visualizes live energy flow between solar panels, battery storage, the grid and household consumption, alongside daily KPIs, historical analysis charts and device/system status.
 
+<img width="1892" height="925" alt="image" src="https://github.com/user-attachments/assets/17d3089f-42b8-400d-966b-61117c9dd836" />
+
+
 ## Features
 
 - **Live energy flow** — animated diagram showing power flowing between solar, battery, grid and home consumption.
